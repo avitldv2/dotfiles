@@ -1,0 +1,50 @@
+! special
+*.foreground:   #c1d9da
+*.background:   #070a0a
+*.cursorColor:  #c1d9da
+
+! black
+*.color0:       #0e1212
+*.color8:       #fabff2
+
+! red
+*.color1:       #171c1c
+*.color9:       #4fc46d
+
+! green
+*.color2:       #272d2d
+*.color10:      #f5938f
+
+! yellow
+*.color3:       #3d4646
+*.color11:      #78a5fc
+
+! blue
+*.color4:       #596565
+*.color12:      #edd54a
+
+! magenta
+*.color5:       #7a8a8a
+*.color13:      #fda7f3
+
+! cyan
+*.color6:       #a1b6b6
+*.color14:      #bfae5e
+
+! white
+*.color7:       #cee8e8
+*.color15:      #a7bef5
+
+!! URxvt Appearance
+URxvt.font: xft:Fira Code Nerd Font:size=12
+URxvt.letterSpace: 0
+URxvt.lineSpace: 0
+URxvt.internalBorder: 0
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: false
+URxvt.saveline: 2048
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.urgentOnBell: true
+URxvt.depth: 24
+URxvt.iso14755: false
